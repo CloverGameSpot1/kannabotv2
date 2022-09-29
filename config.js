@@ -4,15 +4,15 @@
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • DaniBotz Team
-// • Dll
+// • yusuf
+// • jeri
+// • Clover
+// • rikka
+// • juned
+// • badrun
+// • yunus
+// • alen
+// • rafli
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -46,29 +46,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
+global.sgh = 'https://github.com/CloverGameSpot1'
 global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '085158121779'
+global.povo = '085158121779'
+global.pgopay = '085158121779'
+global.ppulsa = '085158121779'
+global.ppulsa2 = '085158121779'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6285228679898'
+global.nomorown = '6285158121779'
+global.namebot = 'CloverBotz Ofc'
+global.nameown = 'X Clover Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6285158121779', 'X Clover Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
